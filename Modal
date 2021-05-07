@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Modal</title>
+</head>
+<body>
+<div class="conteiner-modal">
+<div class="modal">
+     <h2>Modal</h2>
+     <p></p>
+</div>
+</div>
+
+</body>
+</html>
